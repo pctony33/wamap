@@ -834,18 +834,9 @@
                  "id":31,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"jistiRoom",
                          "type":"string",
-                         "value":"giroll"
-                        }]
-                }, 
-                {
-                 "id":32,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
+                         "value":"JeudiGiroll"
                         }]
                 }, 
                 {
