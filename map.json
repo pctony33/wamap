@@ -843,21 +843,21 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":9,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":31,
                  "properties":[
                         {
                          "name":"jistiRoom",
                          "type":"string",
                          "value":"JeudiGiroll"
+                        }]
+                }, 
+                {
+                 "id":32,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
